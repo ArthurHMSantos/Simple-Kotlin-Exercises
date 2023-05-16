@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b76f3234-04fc-43ed-a8bf-56ca689382d8" name="Changes" comment="add DataPorExtenso">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RomanoParaInteiro.kt" afterDir="false" />
+    <list default="true" id="b76f3234-04fc-43ed-a8bf-56ca689382d8" name="Changes" comment="add RomanoParaInteiro.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CalcularSalario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TaxaCrescimento.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.RomanoParaInteiroKt">
+  <component name="RunManager" selected="Kotlin.TaxaCrescimentoKt">
+    <configuration name="CalcularSalarioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcularSalarioKt" />
+      <module name="SimpleKotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataPorExtensoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataPorExtensoKt" />
       <module name="SimpleKotlinExercises" />
@@ -65,8 +73,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaxaCrescimentoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaxaCrescimentoKt" />
+      <module name="SimpleKotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TaxaCrescimentoKt" />
+        <item itemvalue="Kotlin.CalcularSalarioKt" />
         <item itemvalue="Kotlin.RomanoParaInteiroKt" />
         <item itemvalue="Kotlin.DataPorExtensoKt" />
         <item itemvalue="Kotlin.MediaKt" />
@@ -81,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684206737925</updated>
-      <workItem from="1684206740118" duration="2252000" />
+      <workItem from="1684206740118" duration="3192000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit + Media">
       <created>1684207357752</created>
@@ -111,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684208512538</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add RomanoParaInteiro.kt">
+      <created>1684209054159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684209054159</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit + Media" />
     <MESSAGE value="add DataPorExtenso" />
-    <option name="LAST_COMMIT_MESSAGE" value="add DataPorExtenso" />
+    <MESSAGE value="add RomanoParaInteiro.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add RomanoParaInteiro.kt" />
   </component>
 </project>
